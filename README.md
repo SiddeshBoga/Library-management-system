@@ -45,4 +45,20 @@ This project focuses on:
 ---
 
 ## How It Works
-1. The program displ
+1. The program displays a menu with available options.
+2. User selects an operation (add, view, search, exit).
+3. Book data is stored and retrieved from a binary file.
+4. Records remain available even after restarting the program.
+
+---
+## Learning Outcomes
+- Improved understanding of file-based data storage in C
+- Hands-on experience with structured programming
+- Strengthened problem-solving and debugging skills
+- Exposure to real-world application logic
+
+---
+
+## Author
+Siddesh Boga  
+B.Tech – Computer Science (AIML)
